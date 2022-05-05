@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header, footer {
+	background: rgba(191,191,191,1.00);
+	height: 80px;
+	border: solid 1px grey;
+	clear: both;
+}
+section {
+	background: rgba(191,191,191,1.00);
+	height: 250px;
+	border: solid 1px grey;
+	float: left;
+	width: 19.5%;
+}
+article {
+	background: rgba(191,191,191,1.00);
+	height: 250px;
+	border: solid 1px grey;
+	float: left;
+	width: 39.5%;
+}
